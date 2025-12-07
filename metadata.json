@@ -1,0 +1,5 @@
+{
+  "name": "BIM Python Master",
+  "description": "An interactive static web application to learn Python scripting for BIM (Revit, Rhino, etc.) with real-time code execution and AI-powered tutoring.",
+  "requestFramePermissions": []
+}
